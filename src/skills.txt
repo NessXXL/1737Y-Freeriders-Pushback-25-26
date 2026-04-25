@@ -1,0 +1,33 @@
+-9.237, 8.417, 86.779
+-10.805, 9.657, 86.266
+-12.466, 10.77, 85.857
+-14.222, 11.724, 85.396
+-16.056, 12.521, 85.347
+-17.958, 13.134, 85.585
+-19.906, 13.582, 86.177
+-21.889, 13.84, 86.564
+-23.886, 13.934, 87.43
+-25.884, 13.867, 86.66
+-27.87, 13.638, 83.679
+-29.836, 13.272, 80.587
+-31.771, 12.769, 77.372
+-33.669, 12.141, 74.017
+-35.527, 11.401, 70.503
+-37.335, 10.547, 66.803
+-39.09, 9.589, 62.887
+-40.789, 8.535, 58.71
+-42.423, 7.382, 54.212
+-43.982, 6.129, 49.306
+-45.457, 4.779, 43.855
+-46.832, 3.328, 37.622
+-48.083, 1.769, 30.128
+-49.173, 0.094, 20
+-49.409, -0.328, 0
+-49.409, -0.328, 0
+-59.164, -17.788, 0
+endData
+127
+100
+200
+-9.237, 8.417, -23.721, 20.988, -44.217, 9.51, -49.409, -0.328
+#PATH.JERRYIO-DATA {"appVersion":"0.10.0","format":"freeriders v0.5","gc":{"robotWidth":12,"robotHeight":12,"robotIsHolonomic":false,"showRobot":false,"uol":2.54,"pointDensity":2,"controlMagnetDistance":1.968503937007874,"fieldImage":{"displayName":"V5RC 2026 - Push Back (Skills)","signature":"V5RC-PushBack-Skills-TopDownHighlighted-TileColor66_71","origin":{"__type":"built-in"}},"coordinateSystem":"VEX Gaming Positioning System"},"paths":[{"segments":[{"controls":[{"uid":"04l7c2u9ip","x":-9.236860347309861,"y":8.417020671513129,"lock":false,"visible":true,"heading":325,"__type":"end-point"},{"uid":"zZHJ0WNqh3","x":-23.720694619718817,"y":20.987895700396365,"lock":false,"visible":true,"__type":"control"},{"uid":"N0I0fduaNx","x":-44.21668651463714,"y":9.510140239242105,"lock":false,"visible":true,"__type":"control"},{"uid":"RQO55PhY1v","x":-49.40900446134978,"y":-0.3279358703186901,"lock":false,"visible":true,"heading":270,"__type":"end-point"}],"speedProfiles":[],"lookaheadKeyframes":[],"uid":"BVkMYJtavP"}],"pc":{"speedLimit":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":127,"label":"127"},"step":1,"from":20,"to":100},"bentRateApplicableRange":{"minLimit":{"value":0,"label":"0"},"maxLimit":{"value":1,"label":"1"},"step":0.001,"from":0,"to":0.1},"maxDecelerationRate":127},"name":"Path","uid":"fEOg3G002N","lock":false,"visible":true}]}
